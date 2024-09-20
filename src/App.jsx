@@ -17,7 +17,7 @@ const App = ()=>{
     email: null,
     password: null,
     username: null,
-    mobile: null
+    mobile: null,
   }
 
   const [form, setForm] = useState(model)
