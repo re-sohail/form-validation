@@ -8,7 +8,7 @@ const App = ()=>{
     email: '',
     password: '',
     username: '',
-    mobile: ''
+    mobile: '',
   }
 
   const errModel = {
